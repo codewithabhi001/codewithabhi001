@@ -31,6 +31,9 @@ I'm a passionate **Flutter & Full Stack Developer** based in Bangalore, India, w
 - 📍 **Location**: Bangalore, India
 
 
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 
 
 # 💻 Tech Stack:
